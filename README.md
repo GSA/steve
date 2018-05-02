@@ -1,3 +1,5 @@
+![Steve Jobs](https://github.com/GSA/steve/blob/master/steve.png "Steve Jobs")
+
 # steve
 Public repo with fake insecure code for static code scanning
 
