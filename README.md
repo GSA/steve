@@ -11,5 +11,3 @@ Repo for building GSA's automated code scanning platform.  As referenced on GSA 
 ---
 
 This is an open source project and contributions are welcome.  Please review the [LICENSE](https://github.com/GSA/steve/blob/master/LICENSE.md), [CONTRIBUTING](https://github.com/GSA/steve/blob/master/CONTRIBUTING.md), and [CODE_OF_CONDUCT](https://github.com/GSA/steve/blob/master/CODE_OF_CONDUCT.md) files before submitting issues or PRs.
-
-Changing for merge puposes.
